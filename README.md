@@ -21,3 +21,7 @@ In your .env you need to change:
 Once you have changed this you need to run: "npm i" this will install all needed libraries. (run this in terminal)
 Once you have done that the index.js file is used to run the bot. (run "./src/index.js" in terminal)
 
+
+**Related Blog Post**
+
+*http://blog.mossyab.xyz/2023/10/01/base-discord-bot-published/*
